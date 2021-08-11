@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<p id="js">JavaScript</p>
+<div id="list">
+    <p id="se">JavaSE</p>
+    <p id="ee">JavaEE</p>
+    <p id="me">JavaME</p>
+</div>
+
+<script>
+    var js = document.getElementById('js');
+    var list = document.getElementById('list');
+
+    list.append(js);
+    //创建新节点
+    var newP = document.createElement('p');
+    newP.id = "newP";
+    newP.innerText = "newP";
+    list.append(newP);
+
+</script>
+
+</body>
+</html>

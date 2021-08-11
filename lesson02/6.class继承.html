@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    //定义一个学生的类
+    class Student{
+        constructor(name){
+            this.name = name;
+        }
+
+        hello(){
+            alert("hello");
+        }
+    }
+
+    //类继承
+    class xiaoStudent extends Student{
+        constructor(name,grade) {
+            super();
+            this.grade = grade;
+        }
+
+        mygrade(){
+            alert("我是一个小学生");
+        }
+    }
+
+    var xiaoming = new Student("xaioming");
+    var xiaohong = new xiaoStudent("xaiohong",1);
+
+</script>
+
+</body>
+</html>
