@@ -1,23 +1,16 @@
 # JavaScript_course
 
 #### 介绍
+
 Java技术栈之JavaScript学习
 
-#### 软件架构
-软件架构说明
+#### 概述
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+简称JS，是一种具有函数优先的轻量级，解释型或即时编译型的编程语言。
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![image](https://github.com/CONTINUE12/JavaScript_course/blob/master/4.png)
 
 #### 参与贡献
 
@@ -25,7 +18,6 @@ Java技术栈之JavaScript学习
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
 
 #### 特技
 
