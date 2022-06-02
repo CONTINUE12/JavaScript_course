@@ -15,3 +15,5 @@ Java技术栈之JavaScript学习
 #### 其他相关仓库
 
 1.Java技术栈之JavaSE学习：https://github.com/CONTINUE12/JavaSE_course
+
+2.Java技术栈之HTML5学习：https://github.com/CONTINUE12/HTML5_course
