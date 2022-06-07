@@ -35,3 +35,5 @@ Java技术栈之JavaScript学习
 10.Java技术栈之Vue学习：https://github.com/CONTINUE12/Vue_course
 
 11.Java技术栈之Ajax+Json学习：https://github.com/CONTINUE12/Ajax-Json_course
+
+12.Java技术栈之SpringSecurity学习：https://github.com/CONTINUE12/SpringSecurity_course
